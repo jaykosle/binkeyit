@@ -51,11 +51,11 @@ const Header = () => {
             <Search/>
         </div>
 
-        {
+        {/* {
             openCartSection && (
                 <DisplayCartItem close={()=>setOpenCartSection(false)}/>
             )
-        }
+        } */}
     </header>
   )
 }
